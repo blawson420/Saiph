@@ -1,0 +1,2 @@
+#define DEFLECTIONSTRATEGYB_API __declspec(dllexport)
+#define DEFLECTIONSTRATEGYB_API __declspec(dllimport)
